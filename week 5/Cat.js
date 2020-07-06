@@ -71,3 +71,4 @@ status: function(){
 //cat.feed(4,2);
 //cat.sleep(2,4);
 //cat.status();
+//cat.pet(6,2);
