@@ -22,8 +22,9 @@ class Player {
 const player1 = new Player('Proxy');
 const player2 = new Player('Ezekiel');
 
- //select
+ //player moves
 player1.selectMove('rock');
 player2.selectMove('scissor');
  
-player1.challengeOther(player2); //true (Win)
+//challenge player
+player1.challengeOther(player2); //true (wins)
