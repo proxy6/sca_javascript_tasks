@@ -37,5 +37,5 @@ let Book2 = new Book('purple hibiscus', 'african fiction', 'chimammnada', true, 
 //new instances of book list class
 let proxyBookList = new BookList('yellow sun', 'black sun', 'red sun', 'blue sun', 'dark sun');
 
-// add a new book to the array
-proxyBookList.addBook('things fall apart');
+// add Book 1 as a new book to the proxyBooklist
+proxyBookList.addBook('Book1');
